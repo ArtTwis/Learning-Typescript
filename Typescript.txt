@@ -1,0 +1,23 @@
+Types :
+    Number
+    String
+    Boolean
+
+    Null
+    Undefined
+    Void
+    
+    Object
+    Array
+    Tuples
+    Union
+    ...
+    
+    (Any) Danger
+    Never
+    Unknown
+
+===============================================
+
+Situations :
+    
